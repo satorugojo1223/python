@@ -1,0 +1,6 @@
+print('birthday storing')
+Name = input("enter the name of the victim :")
+date = input("enter the birth date of the victim :")
+plan = input("enter the plan of the victim :")
+my_bros_age = input("enter the age of the victim :")
+print("so the name of the victim is",Name,"plan is",plan,"the date is",date,"he is gonna be ",my_bros_age,"epic party")

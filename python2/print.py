@@ -1,0 +1,6 @@
+print("yoo wspp")
+print(45)
+print("a = ",45)
+print("\nName\t\tage\tclass\njohnpork\t12\t6-7\nskibidi \t13\t7")
+print("iam learning python",end=" ")
+print("it is very easy")
