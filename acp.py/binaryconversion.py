@@ -1,10 +1,10 @@
-num = int(input("Enter a decimal number: "))
+num1 = float(input("Enter a decimal number: "))
 binary = ""
 
-while num > 0:
-    rem = num % 2
+while num1 > 0:
+    rem = num1 % 2
     binary = str(rem) + binary
-    num = num // 2
+    num1 = num1 // 2
 
 # nested loop just to print each digit
 for i in binary:
