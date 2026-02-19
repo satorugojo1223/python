@@ -1,0 +1,11 @@
+import array as arr
+a = arr.array("i",[1,3,4,45,67,89])
+print("the array a",str(a))
+b = arr.array("i",[10,20,30,40,50,43,21])
+print("the count 50 in b is",b.count(50))
+b.append(1000)
+b.insert(1,2000)
+print(b)
+b.reverse()
+print("the reverse array is")
+print(b)
