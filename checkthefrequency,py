@@ -1,0 +1,12 @@
+# Sample dictionary
+data = {"a": 10, "b": 20, "c": 10, "d": 30}
+
+# Value to check
+value = int(input("enter the value :"))
+
+# Count frequency
+count = list(data.values()).count(value)
+
+print("Frequency of", value, "is:", count)
+
+print (" respawn save and quit to title :")
